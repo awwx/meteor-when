@@ -3,6 +3,6 @@
   "description": "cujojs's lightweight CommonJS Promises/A and when() implementation",
   "homepage": "https://github.com/awwx/meteor-when",
   "author": "Andrew Wilcox",
-  "version": "1.7.1-1",
+  "version": "1.7.1r1",
   "git": "https://github.com/awwx/meteor-when"
 }
