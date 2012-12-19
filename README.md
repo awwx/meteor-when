@@ -1,13 +1,12 @@
 when
 ====
 
-The [when library](https://github.com/cujojs/when),
+cujojs's lightweight CommonJS Promises/A
+[when library](https://github.com/cujojs/when),
 packaged for Meteor.
 
-when is cujojs's lightweight CommonJS Promises/A implementation.
-
 If you don't have fibers, promises are the next best thing for
-avoiding thickets of deeply nested callbacks in your code.
+avoiding thickets of deeply nested callbacks in your code!
 
 
 Use
